@@ -13,3 +13,6 @@ to do so. This is a supervised project as I had the collected the previous recor
 
 4. Multivariate_Linearregression
   -A project on predicting a feature(salary) based on more than 1 feature. It predicts salary based on the employee's interview_score, test_score and with the prior experience. This is a supervised learning project. Here I have also used "w2n.word_to_number" on a particular feature to convert text form of a number to the integer format, it was fun learning:).
+
+5. Movie_recommendation system
+  -Basic project on ML which recommends movies on the basis of their genres, cast, director, keywords such as movie description etc. Here I used cosine similarity to convert text into the floating point numbers and to gain similarity between the features extracted. More features can be used to have robust output.
